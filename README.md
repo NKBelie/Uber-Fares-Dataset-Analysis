@@ -35,7 +35,7 @@ The dataset (uber.csv) was provided for academic analysis and contains details o
 ### Fare Distribution
 
 ### Temporal Patterns
-
+![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/8.PNG)
 ### Simulated Weather Impact
 
 ### Geographic Trends
