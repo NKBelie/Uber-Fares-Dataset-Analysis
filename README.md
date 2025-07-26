@@ -31,7 +31,7 @@ The dataset (uber.csv) was provided for academic analysis and contains details o
      
 ##  Analysis: Detailed Findings and Statistical Insights
 ### Descriptive Statistics
-
+![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/Statistics.PNG)
 ### Fare Distribution
 
 ### Temporal Patterns
