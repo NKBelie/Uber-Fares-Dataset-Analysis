@@ -40,4 +40,4 @@ The dataset (uber.csv) was provided for academic analysis and contains details o
 ### Simulated Weather Impact
 ![]()
 ### Geographic Trends
-![]()
+![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/Map.PNG)
