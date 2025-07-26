@@ -10,3 +10,18 @@ This project aims to analyze Uber ride data to identify patterns in fare pricing
 ## Data Source
 [Uber_Fares_Dataset](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset) 
 
+## Introduction
+The purpose of this project is to analyze Uber fare data to uncover meaningful patterns and trends in ride behavior. By exploring fare distribution, ride timing, passenger demand, and geographic distribution (if available), the project aims to develop insights that can assist in operational decision-making, pricing strategies, and demand forecasting. This analysis also simulates weather impacts to demonstrate potential external factors influencing Uber rides.
+## Methodology
+- Data Source: The dataset (uber.csv) was provided for academic analysis and contains details on Uber rides including fare amount, pickup time, and location.
+- Tools Used:
+   - Python (Jupyter Notebook): Data cleaning, feature engineering, and export.
+   - Power BI: Dashboard creation and interactive visual analytics.
+- Data Cleaning:
+    - Removed invalid or missing values
+    - Dropped rows with fare_amount <= 0
+- Feature Engineering:
+   - Extracted hour, day, month, and day_name from pickup_datetime
+   - Created is_peak_hour flag (for rush hours)
+   - Simulated a weather column with realistic probability (70% Clear, 25% Rain, 5% Snow)
+   - Exported the cleaned and enriched dataset for Power BI use.
