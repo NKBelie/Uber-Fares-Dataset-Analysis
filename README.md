@@ -17,7 +17,9 @@ The purpose of this project is to analyze Uber fare data to uncover meaningful p
 [Uber_Fares_Dataset](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset) <br>
 The dataset (uber.csv) was provided for academic analysis and contains details on Uber rides including fare amount, pickup time, and location.
 - **Dataset Used**
-   - [Uber.csv](https://drive.google.com/file/d/1JhUHMUhgDmc27c-TLvIGA_PxuNEgKqpa/view?usp=drive_link)
+   - [Uber.csv](https://drive.google.com/file/d/1JhUHMUhgDmc27c-TLvIGA_PxuNEgKqpa/view?usp=drive_link) Original Dataset
+   - [uber_cleaned.csv]() Cleaned dataset for Power BI
+   - [uber_with_weather.csv]() Final dataset with simulated weather
 - **Tools Used:**
    - **Python (Pandas, NumPy)** – for data analysis and feature engineering and export.
    - **Jupyter Notebook** – for code execution, Data cleaning and visualization
