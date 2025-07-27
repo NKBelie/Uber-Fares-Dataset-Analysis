@@ -65,5 +65,19 @@ The dataset (uber.csv) was provided for academic analysis and contains details o
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/10.PNG)
 
 # Dashboard
+The Uber Fares Dashboard presents key insights into ride patterns. Most rides are low-cost, with fares under $20, while a few high-value trips suggest longer or premium rides. Ride activity peaks in the evening hours, especially between 5 PM and 8 PM. Fridays and weekends see higher ride demand compared to other days. Over the years, both fare amounts and ride volume have gradually increased. Geographically, the majority of pickups occur in densely populated urban areas such as New York City. These patterns highlight the strong influence of time and location on Uber usage, offering useful insights for pricing and operational planning.
+
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/Dashboard.PNG)
 
+# Conclusion
+The analysis revealed that most Uber fares are low, reflecting short-distance trips, while high fares indicate longer or premium rides. Peak demand occurs during morning and evening rush hours, especially on weekdays. Simulated weather data showed increased fares and ride volume during rain and snow. Geographic trends confirmed that most rides happen in urban centers. These findings highlight the importance of time, location, and external conditions in shaping Uber ride patterns.
+
+#Recommendations
+  - Increase driver availability during peak hours (early morning and evening) to meet high demand.
+  - Use dynamic (surge) pricing during busy periods and bad weather to manage rider load and maximize profit.
+  - Integrate real-time weather data into operations for better forecasting and planning.
+  - Focus marketing and promotions in high-demand urban areas where most rides occur.
+  - Introduce off-peak discounts to encourage ridership during low-demand times.
+  - Regularly monitor ride patterns (hourly, daily, monthly) to adjust pricing, driver shifts, and promotions.
+  - Use geographic data to guide driver placement and expand services into under-served but growing areas.
+    
