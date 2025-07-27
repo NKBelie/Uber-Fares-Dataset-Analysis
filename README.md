@@ -64,3 +64,6 @@ The dataset (uber.csv) was provided for academic analysis and contains details o
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/9.PNG)
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/10.PNG)
 
+# Dashboard
+![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/Uber%20Fares%20Dashboard.PNG)
+
