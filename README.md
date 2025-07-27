@@ -8,12 +8,12 @@
 # Uber-Fares-Dataset-Analysis
 As Uber expands its urban mobility services, understanding the dynamics of fare pricing, trip duration, and temporal patterns is crucial to ensure both customer satisfaction and operational efficiency.
 
-## Problem Statement
+# Problem Statement
 This project aims to analyze Uber ride data to identify patterns in fare pricing, ride frequency, and time-based trends. The dataset contains raw and sometimes inconsistent records, making it essential to clean and transform the data before drawing insights. By exploring relationships between fare amounts, trip times, and distances, the goal is to create a clear and interactive Power BI dashboard that helps reveal peak periods, potential pricing inefficiencies, and ride behavior to support data-driven decision-making.
 
-## Introduction
+# Introduction
 The purpose of this project is to analyze Uber fare data to uncover meaningful patterns and trends in ride behavior. By exploring fare distribution, ride timing, passenger demand, and geographic distribution (if available), the project aims to develop insights that can assist in operational decision-making, pricing strategies, and demand forecasting. This analysis also simulates weather impacts to demonstrate potential external factors influencing Uber rides.
-## Methodology
+# Methodology
 - **Data Source**
 [Uber_Fares_Dataset](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset) <br>
 The dataset (uber.csv) was provided for academic analysis and contains details on Uber rides including fare amount, pickup time, and location.
@@ -36,7 +36,7 @@ The dataset (uber.csv) was provided for academic analysis and contains details o
  - **Power BI Files**
    - [Visualization](https://drive.google.com/file/d/1LueZUUmeW52iJ-MRf8qLbDJM7ucwUFIm/view?usp=drive_link)
    - [Dashboard](https://drive.google.com/file/d/18Q3dyrMbzqOGeO7Rvf7NEtTtpB8sXray/view?usp=drive_link)
-##  Analysis: Detailed Findings and Statistical Insights
+# Analysis: Detailed Findings and Statistical Insights
 ### Descriptive Statistics
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/Statistics.PNG)
 ### Fare Distribution
@@ -49,9 +49,12 @@ The dataset (uber.csv) was provided for academic analysis and contains details o
 ### Geographic Trends
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/Map.PNG)
 
-## All Result Image
-![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/1.PNG)
+# All Result Image
+![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/Load%20Data%201.PNG)
+![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/1.PNG) ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/Correlation%20Matrix.png)
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/2.PNG)
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/3.PNG)
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/4.PNG)
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/5.PNG)
+![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/Average%20Fare%20by%20Hour%20of%20Day.png)
+
