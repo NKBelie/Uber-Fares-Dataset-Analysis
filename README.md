@@ -20,7 +20,7 @@ The dataset (uber.csv) was provided for academic analysis and contains details o
 - **Dataset Used**
    - [Uber.csv](https://drive.google.com/file/d/1JhUHMUhgDmc27c-TLvIGA_PxuNEgKqpa/view?usp=drive_link) Original Dataset
    - [uber_cleaned.csv](https://drive.google.com/file/d/1HQrrn0rAE80b3SakaO-GTBlZaquIIYbB/view?usp=drive_link) Cleaned dataset for Power BI
-   - [uber_with_weather.csv]() Final dataset with simulated weather
+   - [uber_with_weather.csv](https://drive.google.com/file/d/1ojLtDKI9nmpBc43BDTlQpMbMeXSKDfzH/view?usp=drive_link) Final dataset with simulated weather
 - **Tools Used:**
    - **Python (Pandas, NumPy)** – for data analysis and feature engineering and export.
    - **Jupyter Notebook** – for code execution, Data cleaning and visualization
@@ -60,4 +60,7 @@ The dataset (uber.csv) was provided for academic analysis and contains details o
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/Correlation%20Matrix.png)
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/Fare%20Amount%20Boxplot.png)
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/Fare%20Amount%20vs.%20Distance%20Traveled.png)
+![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/6.PNG)
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/9.PNG)
+![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/10.PNG)
+
