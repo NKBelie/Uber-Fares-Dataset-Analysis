@@ -51,10 +51,13 @@ The dataset (uber.csv) was provided for academic analysis and contains details o
 
 # All Result Image
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/Load%20Data%201.PNG)
-![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/1.PNG) ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/Correlation%20Matrix.png)
+![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/1.PNG) 
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/2.PNG)
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/3.PNG)
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/4.PNG)
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/5.PNG)
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/Average%20Fare%20by%20Hour%20of%20Day.png)
-
+![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/Correlation%20Matrix.png)
+![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/Fare%20Amount%20Boxplot.png)
+![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/Fare%20Amount%20vs.%20Distance%20Traveled.png)
+![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/9.PNG)
