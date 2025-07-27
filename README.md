@@ -1,7 +1,8 @@
 # Personal Introduction
 **Names :** NDAYISABA KAMARIZA Belie<br>
 **ID :** 27174<br>
-**Course:** Introduction to Big Data Analytics
+**Course:** Introduction to Big Data Analytics<br>
+**Concentration:** Software Engineering
 
 
 # Uber-Fares-Dataset-Analysis
@@ -18,7 +19,7 @@ The purpose of this project is to analyze Uber fare data to uncover meaningful p
 The dataset (uber.csv) was provided for academic analysis and contains details on Uber rides including fare amount, pickup time, and location.
 - **Dataset Used**
    - [Uber.csv](https://drive.google.com/file/d/1JhUHMUhgDmc27c-TLvIGA_PxuNEgKqpa/view?usp=drive_link) Original Dataset
-   - [uber_cleaned.csv]() Cleaned dataset for Power BI
+   - [uber_cleaned.csv](https://drive.google.com/file/d/1HQrrn0rAE80b3SakaO-GTBlZaquIIYbB/view?usp=drive_link) Cleaned dataset for Power BI
    - [uber_with_weather.csv]() Final dataset with simulated weather
 - **Tools Used:**
    - **Python (Pandas, NumPy)** – for data analysis and feature engineering and export.
@@ -44,6 +45,13 @@ The dataset (uber.csv) was provided for academic analysis and contains details o
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/2.PNG)
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/8.PNG)
 ### Simulated Weather Impact
-![]()
+![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/14.PNG)
 ### Geographic Trends
 ![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/Map.PNG)
+
+## All Result Image
+![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/1.PNG)
+![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/2.PNG)
+![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/3.PNG)
+![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/4.PNG)
+![](https://github.com/NKBelie/Uber-Fares-Dataset-Analysis/blob/main/Image/5.PNG)
