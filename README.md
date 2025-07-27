@@ -72,7 +72,7 @@ The Uber Fares Dashboard presents key insights into ride patterns. Most rides ar
 # Conclusion
 The analysis revealed that most Uber fares are low, reflecting short-distance trips, while high fares indicate longer or premium rides. Peak demand occurs during morning and evening rush hours, especially on weekdays. Simulated weather data showed increased fares and ride volume during rain and snow. Geographic trends confirmed that most rides happen in urban centers. These findings highlight the importance of time, location, and external conditions in shaping Uber ride patterns.
 
-#Recommendations
+# Recommendations
   - Increase driver availability during peak hours (early morning and evening) to meet high demand.
   - Use dynamic (surge) pricing during busy periods and bad weather to manage rider load and maximize profit.
   - Integrate real-time weather data into operations for better forecasting and planning.
